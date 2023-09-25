@@ -18,9 +18,9 @@ public class GitArraysTest {
 			System.out.println(names[i]);
 		}
 		
-//		for (String abc : names) {
-//			System.out.println(abc);
-//		}
+		for (String abc : names) {
+			System.out.println(abc)
+	}
 
 		// Multidimensional Array
 		int type[][] = { { 1, 2, 3, 4 }, { 5, 6, 7, 8 } };
